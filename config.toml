@@ -1,0 +1,6 @@
+[mailSetting]
+server = "smtp.gmail.com"
+port = "465"
+email = "wayne011872@gmail.com"
+password = "ckevrwbinlpkntre"
+to_email = "wayne011852@gmail.com"
